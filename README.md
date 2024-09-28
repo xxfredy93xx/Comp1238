@@ -1,11 +1,8 @@
-# 😏3rd lab for comp 1238😏
+## 😏3rd lab for comp 1238😏
 
   <h2>
     Testing of github:
   </h2>
-
-  
-
 
 
 
@@ -62,6 +59,17 @@ _ underscore
 
 
 
+
+# Keyboard shortcuts
+Shortcuts I use every day: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-X (cut)
+
+# Shortcuts I would like to start using
+- Windows key + up key <em>(maximize window)</em>
+- Win-D <em>(show desktop)</em> <strong>I didn't know I could do this!</strong>
+- Cntrl-Z (Undo) Something that would have been very helpful last week!
 
 
 
