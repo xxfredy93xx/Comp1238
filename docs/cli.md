@@ -10,3 +10,4 @@ cat- when you find a file you want to open you have to add the cat (file name) t
 cd- change directory
 
 ls -alps- to see file specifics.
+```
