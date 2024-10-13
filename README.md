@@ -75,4 +75,5 @@ Shortcuts I use every day:
 
 [CLI commands](docs/cli.md)
 
+[VSCode](docs/VSCode.md)
   
