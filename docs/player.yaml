@@ -1,0 +1,28 @@
+- Name: LeBron James
+  Sport: Basketball
+  Team:
+    name: Lakers
+    City: Los Angeles
+    Position: Forward
+  Age: '38'
+- Name: Lionel Messi
+  Sport: Futbol
+  Team:
+    name: Inter Miami
+    City: Miami
+    Position: Forward
+  Age: '36'
+- Name: Serena Williams  // string
+  Sport: Tennis  // array
+  Team:
+    name: N/A  // null
+    City: N/A  // null
+    Position: Player // boolean
+  Age: '41'  // number
+- Name: Tom Brady
+  Sport: Football
+  Team:
+    name: Buccaneers
+    City: Tampa Bay
+    Position: Quarter back
+  Age: '46'
