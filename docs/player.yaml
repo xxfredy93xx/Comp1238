@@ -12,13 +12,13 @@
     City: Miami
     Position: Forward
   Age: '36'
-- Name: Serena Williams  // string
-  Sport: Tennis  // array
+- Name: Serena Williams  #string
+  Sport: Tennis  #array
   Team:
-    name: N/A  // null
-    City: N/A  // null
-    Position: Player // boolean
-  Age: '41'  // number
+    name: N/A  #null
+    City: N/A  #null
+    Position: Player #boolean
+  Age: '41'  #number
 - Name: Tom Brady
   Sport: Football
   Team:
