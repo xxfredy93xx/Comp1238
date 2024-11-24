@@ -1,3 +1,4 @@
+Fredy Godoy
 --adding a comment about a comment :p
 
 SELECT *
@@ -50,3 +51,31 @@ WHERE status != 'Completed'
   AND course_id LIKE 'COMM%'
   AND due_date < '2024-12-31'
 ORDER BY due_date;
+
+SELECT course_id, course_name, lab_time
+from courses
+WHERE lab_time
+LIKE 'Fri%'
+
+SELECT due_date,title
+from assignments
+WHERE due_date > '2024-11-24'
+
+SELECT COUNT (*),title,due_date, status
+FROM assignments
+GROUP BY status
+
+SELECT max(course_name)
+FROM courses
+
+SELECT upper(course_name)
+FROM courses
+
+SELECT title, due_date
+FROM assignments
+WHERE due_date
+LIKE '%-09-%';
+
+SELECT title, due_date
+FROM assignments
+WHERE due_date is NULL
